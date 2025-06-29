@@ -1,6 +1,7 @@
 # map_bot
 برای مسیر یابی میشه این رباتو استفاده کرد
-##کتابخونه هایی که باید نصب کنید
+1. **Install Library**
+کتابخونه هایی که باید نصب کنید
 ```python
 pip instakk osmnx networkx folium
 ```
